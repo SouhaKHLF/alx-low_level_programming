@@ -4,7 +4,7 @@
  *
  * Description: print all alphabet letters expect q and e i
  *
- * return: 0 (success)
+ * Return: 0 (success)
  */
 
 int main(void)
