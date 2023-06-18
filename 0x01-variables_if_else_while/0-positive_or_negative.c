@@ -3,7 +3,7 @@
 /**
  * main - Entry point
  *
- * Description: false or true validation
+ * Description:print positive or negative with random number
  *
  * return: Always 0 (success)
  */
