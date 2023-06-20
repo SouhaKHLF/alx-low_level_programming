@@ -5,7 +5,7 @@
  *
  * Description: print all alphabet letters
  *
- * return: return 0 (success)
+ * Return: return 0 (success)
  */
 
 int main(void)
