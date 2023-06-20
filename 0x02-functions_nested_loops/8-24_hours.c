@@ -3,8 +3,7 @@
  * jack_bauer- prints every minute of the day
  *Return: value
  */
-
-int jack_bauer(void)
+void jack_bauer(void)
 {
 	int min, hr;
 
@@ -14,10 +13,10 @@ int jack_bauer(void)
 		{
 			_putchar((hr / 10) + 48);
 			_putchar((hr % 10) + 48);
-			_putchar((':');
+			_putchar(':');
 			_putchar((min / 10) + 48);
 			_putchar((min % 10) + 48);
-			_putchar(('\n');
+			_putchar('\n');
 				}
 				}
 				}
