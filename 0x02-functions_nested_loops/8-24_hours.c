@@ -2,7 +2,7 @@
 /**
  * jack_bauer- prints every minute of the day
  *Return: value
- * /
+ */
 
 int jack_bauer(void)
 {
