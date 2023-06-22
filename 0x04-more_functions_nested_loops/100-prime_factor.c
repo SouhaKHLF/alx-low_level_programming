@@ -20,9 +20,10 @@ double _sqrt(double x)
 	}
 	return (sqrt);
 }
-/*
- * largest_prime_factor - finds and prints the largest
+/**
+ * largest_prime_factor - finds and prints the largest,
  * prime factor of number (num)
+ * followed by a new line.
  *
  * @num: number of find
  */
