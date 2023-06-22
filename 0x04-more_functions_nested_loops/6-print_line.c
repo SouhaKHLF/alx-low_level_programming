@@ -4,6 +4,8 @@
  *
  * @n: is the number of times the _ character
  * should be printed
+ *
+ * Return: always 0 (success)
  */
 
 void print_line(int n)
