@@ -1,4 +1,5 @@
 #include "main.h"
+
 /**
  * print_line - print a straight line
  *
@@ -15,7 +16,7 @@ void print_line(int n)
 	if (n <= 0)
 		_putchar('\n');
 	else
-i	{
+	{
 		for (InChr = 1; InChr <= n; InChr++)
 			_putchar('_');
 		_putchar('\n');
